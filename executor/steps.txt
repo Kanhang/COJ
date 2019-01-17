@@ -1,0 +1,11 @@
+
+sudo docker build . -t kanhang/coj_demo1
+
+
+
+
+sudo apt install docker.io
+
+
+
+docker --version			
